@@ -29,7 +29,7 @@ To start contributing, follow the below guidelines:
 
 ### 🎏 Steps For Making A Pull Request 🎏
 
-**1.** **Fork** [this](https://github.com/Prat2124/DSAPoint) repository.
+**1.** **Fork** [this](https://github.com/Prat2124/Guide-To-Computer-Science) repository.
 
 **2.** **Clone** your forked copy of the project.
 
