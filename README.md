@@ -11,4 +11,6 @@ Create folder for any algorithm you want to add and add all the necessary files 
 
 Make sure you are not submitting an already existing algo .
 
+Check [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
 
